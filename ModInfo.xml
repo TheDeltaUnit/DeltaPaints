@@ -1,0 +1,3 @@
+<mod displayName="Delta Paints" unique="DeltaPaints" description="109 Unique Creature Paints! The one and only Delta Paints." installerSystemVersion="1.0.1.0" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<prerequisite game="GalacticAdventures">Delta_Paints.package</prerequisite>
+</mod>
